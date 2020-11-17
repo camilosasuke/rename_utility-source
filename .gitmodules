@@ -1,3 +1,6 @@
 [submodule "app"]
 	path = app
 	url = ../../ca2/app
+[submodule "camilosasuketbs"]
+	path = camilosasuketbs
+	url = ../camilosasuketbs
